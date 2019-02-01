@@ -1,9 +1,19 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[{
+		"id": 100,
+		"name": "sujith",
+		"city": "siddipet",
+		"postal": "502103"
+	},
+	{
+		"id": 101,
+		"name": "vamsi",
+		"city": "hyderabad",
+		"postal": "500043"
+	},
+	{
+		"id": 103,
+		"name": "amar",
+		"city": "nellore",
+		"postal": "520014"
+	}
+]
